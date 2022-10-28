@@ -1,5 +1,5 @@
-{[
+[
   {"Title":"The Hundred-Page Machine Learning Book", "Author(s)":"Andriy Burkov", "Edition":"Third", "Number of pages":"100", "Difficulty level":"Medium" },
   {"Title":"Machine Learning for Absolute Beginners", "Author(s)":"Oliver Theobald", "Edition":"Second", "Number of pages":"300", "Difficulty level":"Low"},
   {"Title":"Machine Learning for Hackers", "Author(s)":"Drew Conway and John Myles White", "Edition":"First", "Number of pages":"500", "Difficulty level":"High"}
-]}
+]
